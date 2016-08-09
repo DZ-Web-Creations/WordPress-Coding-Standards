@@ -2,8 +2,6 @@
 /**
  * Unit test class for WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -12,7 +10,6 @@
  * Unit test class for the YodaConditions sniff.
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  Matt Robinson
  * @since   0.3.0
  */
 class WordPress_Tests_PHP_YodaConditionsUnitTest extends AbstractSniffUnitTest {

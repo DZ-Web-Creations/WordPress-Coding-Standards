@@ -2,8 +2,6 @@
 /**
  * WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -14,7 +12,6 @@
  * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/php/#yoda-conditions
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  Matt Robinson
  *
  * @since   0.3.0
  */

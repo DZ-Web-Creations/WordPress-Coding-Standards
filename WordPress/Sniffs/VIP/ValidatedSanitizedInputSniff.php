@@ -2,8 +2,6 @@
 /**
  * WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -14,7 +12,6 @@
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards/issues/69
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  Shady Sharaf <shady@x-team.com>
  *
  * @since   0.3.0
  * @since   0.4.0 This class now extends WordPress_Sniff.

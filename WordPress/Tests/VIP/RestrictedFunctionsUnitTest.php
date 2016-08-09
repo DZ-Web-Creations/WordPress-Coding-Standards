@@ -2,8 +2,6 @@
 /**
  * Unit test class for WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -12,7 +10,6 @@
  * Unit test class for the VIP_RestrictedFunctions sniff.
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  Shady Sharaf <shady@x-team.com>
  * @since   0.3.0
  */
 class WordPress_Tests_VIP_RestrictedFunctionsUnitTest extends AbstractSniffUnitTest {

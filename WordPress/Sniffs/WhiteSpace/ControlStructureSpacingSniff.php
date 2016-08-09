@@ -2,8 +2,6 @@
 /**
  * WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -12,7 +10,6 @@
  * Enforces spacing around logical operators and assignments, based upon Squiz code.
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  John Godley <john@urbangiraffe.com>
  *
  * @since   0.1.0
  * @since   2013-06-11 This sniff no longer supports JS.

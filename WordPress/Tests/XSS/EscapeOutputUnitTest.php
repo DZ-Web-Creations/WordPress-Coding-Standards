@@ -2,8 +2,6 @@
 /**
  * Unit test class for WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -12,7 +10,6 @@
  * Unit test class for the EscapeOutput sniff.
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  Akeda Bagus <akeda@x-team.com>
  * @since   2013-06-11
  */
 class WordPress_Tests_XSS_EscapeOutputUnitTest extends AbstractSniffUnitTest {

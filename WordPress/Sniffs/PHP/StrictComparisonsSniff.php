@@ -2,8 +2,6 @@
 /**
  * WordPress Coding Standard.
  *
- * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @link    https://make.wordpress.org/core/handbook/best-practices/coding-standards/
  * @link    https://github.com/WordPress-Coding-Standards/WordPress-Coding-Standards
  * @license https://opensource.org/licenses/MIT MIT
  */
@@ -12,7 +10,6 @@
  * Enforces Strict Comparison checks, based upon Squiz code.
  *
  * @package PHP\CodeSniffer\WordPress-Coding-Standards
- * @author  Matt Robinson
  *
  * @since   0.4.0
  *
